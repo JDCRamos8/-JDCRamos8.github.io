@@ -22,7 +22,7 @@ linkedin: joshuadramos # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://jdcramos8.github.io/joshua-resume.pdf # the link
+about_button: https://jdcramos8.github.io/assets/joshua-resume.pdf # the link
 about_button_label: resume # the label on the button
 
 # optional portfolio section ------------------------------------------
