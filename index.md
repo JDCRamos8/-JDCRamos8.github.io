@@ -22,8 +22,8 @@ linkedin: joshuadramos # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://jdcramos8.github.io/joshua-resume.pdf # the link
+about_button_label: resume # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -42,16 +42,8 @@ cta_button_label: contact # the label on the button
 
 ---
 [//]: # (write a bit about yourself here)
-### why **hello**?
+I am an alumnus of Long Beach State with an undergraduate degree in Computer Science. I am interested in IT/Field Support & Cybersecurity and am currently seeking opportunities similar to these.
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.
+Growing up, I realized I enjoyed solving other people's problems, especially if it involved technology. It started with helping family members, whether it be on a laptop, a TV, or a mobile phone. This helped me transition into an IT/Field Support internship where I improved my skills to become a more analytic, detail-oriented, and organized person.
 
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+Most of all, I became impassioned to improve technology to make people's lives easier and more efficient in hopes to create a better tomorrow, and today. I am eager to use this passion to hone my skills in any opportunities that may come.
