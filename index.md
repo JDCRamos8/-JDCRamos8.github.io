@@ -46,4 +46,4 @@ I am an alumnus of Long Beach State with an undergraduate degree in Computer Sci
 
 Growing up, I realized I enjoyed solving other people's problems, especially if it involved technology. It started with helping family members, whether it be on a laptop, a TV, or a mobile phone. This helped me transition into an IT/Field Support internship where I improved my skills to become a more analytic, detail-oriented, and organized person.
 
-Most of all, I became impassioned to improve technology to make people's lives easier and more efficient in hopes to create a better tomorrow, and today. I am eager to use this passion to hone my skills in any opportunities that may come.
+Most of all, I became impassioned to improve technology to make people's lives easier and more efficient in hopes to create a better tomorrow, today. I am eager to use this passion to hone my skills in any opportunities that may come.
